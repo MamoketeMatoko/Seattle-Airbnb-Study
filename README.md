@@ -15,10 +15,10 @@ The questions I am interested in answering are :
 * Can one predict prices with the available data?
 
 ## File Descriptions
-There is a notebook available that answers the above mentioned questions. The `.py` file should run for each cell to answer all of the above questions  and each cell also has commented lines that explains each step taken in the code. The dataset used can be accessed [Here](https://www.kaggle.com/datasets/airbnb/seattle/data).
+There is a notebook available that answers the above mentioned questions. The `.ipynb` file should run for each cell to answer all of the above questions  and each cell also has commented lines that explains each step taken in the code. The dataset used can be accessed [Here](https://www.kaggle.com/datasets/airbnb/seattle/data).
 
 ## Results
-The finding of this project can be found _here_
+The findings of this project can be found [Here](https://medium.com/@mamoketematoko_42891/how-to-predict-listing-prices-using-seattle-airbnb-dataset-62784b1f4cfa)
 
 ## Licensing,Acknowledgements
 I would like to thank Kaggle for providing me with the data set that was used in this project.
