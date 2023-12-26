@@ -16,3 +16,11 @@ The questions I am interested in answering are :
 
 ## File Descriptions
 There is a notebook available that answers the above mentioned questions. The `.py` file should run for each cell to answer all of the above questions  and each cell also has commented lines that explains each step taken in the code. The dataset used can be accessed [Here](https://www.kaggle.com/datasets/airbnb/seattle/data).
+
+## Results
+The finding of this project can be found _here_
+
+## Licensing,Acknowledgements
+I would like to thank Kaggle for providing me with the data set that was used in this project.
+The data and licensing to the data is available on [This link](https://www.kaggle.com/datasets/airbnb/seattle/data).
+
